@@ -68,5 +68,4 @@ theme: landscape
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:git
-  repository: https://github.com/zippera/zippera.github.io.git
+  type:github blog
