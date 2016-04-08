@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: apollo
+theme: apollo1
 
 # 在归档页面显示所有文章
 # 需要上面安装的 hexo-generator-archive 插件支持
