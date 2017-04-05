@@ -1,0 +1,27 @@
+menu:
+    博客: /
+    分类: /archives/
+    微博: http://weibo.com/u/1769012322
+    github: https://github.com/Linvers
+
+favicon: /favicon.png
+logo: /favicon.png
+
+# Comment
+# e.g disqus: seansun
+disqus:
+duoshuo: linevers
+
+# Analytics
+# google-analytics:
+# ga: UA-65933410-1
+# baidu-analytics:
+td: //sdk.talkingdata.com/app/h5/v1?appid=B1C1945054C0229F05E8B85EB38854BE&vn=&vc=
+
+# Copyright Infomation
+startyear: 2017
+
+# Font CDN
+#true : use google fonts api, not stable for chinese visitor sometimes, caused by force majeure factor
+#false: use useso fonts api instead of google's, great response speed for chinese visitor
+googlefonts: false
