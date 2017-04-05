@@ -72,6 +72,7 @@ archive_generator:
     yearly: false
     monthly: false
     daily: false
+<<<<<<< HEAD
 
 jsonContent:
     meta: false
@@ -91,8 +92,14 @@ jsonContent:
       excerpt: false
       categories: false
       tags: true
+=======
+>>>>>>> 97adb49f573d2df9e790da17a77adf73f781736d
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
+<<<<<<< HEAD
   type:
+=======
+  type:
+>>>>>>> 97adb49f573d2df9e790da17a77adf73f781736d

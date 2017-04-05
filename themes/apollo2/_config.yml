@@ -1,7 +1,11 @@
 menu:
     博客: /
     分类: /archives/
+<<<<<<< HEAD
     微博: http://weibo.com/u/1769012322
+=======
+    微博: http://weibo.com/linevers
+>>>>>>> 97adb49f573d2df9e790da17a77adf73f781736d
     github: https://github.com/Linvers
 
 favicon: /favicon.png
@@ -19,7 +23,11 @@ duoshuo: linevers
 td: //sdk.talkingdata.com/app/h5/v1?appid=B1C1945054C0229F05E8B85EB38854BE&vn=&vc=
 
 # Copyright Infomation
+<<<<<<< HEAD
 startyear: 2017
+=======
+startyear: 2016
+>>>>>>> 97adb49f573d2df9e790da17a77adf73f781736d
 
 # Font CDN
 #true : use google fonts api, not stable for chinese visitor sometimes, caused by force majeure factor
